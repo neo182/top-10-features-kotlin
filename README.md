@@ -1,5 +1,5 @@
 # Top 10 features in Kotlin
-Learning myself Kotlin for two years and having written two full blown application in the language, here is my take on 10 awesome features of Kotlin that could (possibly) convice a seasoned Java developer to start his/her journey into Kotlin. I have taken the "Talk is cheap. Show me the code" approach of Linus Torvalds.
+Teching myself Kotlin for two years and having written two full blown applications in the language, here is my take on 10 awesome features of Kotlin that could (possibly) convice a seasoned Java developer to start his/her journey into Kotlin. I have taken the "Talk is cheap. Show me the code" approach of Linus Torvalds.
 
 1. Null-safe and Elvis operation
 	"Null References: The Billion Dollar Mistake" Tony Hoare (https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)
